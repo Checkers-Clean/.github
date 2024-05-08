@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/Checkers-Clean/.github/assets/122391569/751353e7-e123-43a8-9925-a02c89c2521f" width="250" height="250" alt="Descripción de la imagen">
+</p>
+
+
 # **Checkers**
 
 ## La aplicacion consta de los siguientes puntos
